@@ -59,6 +59,8 @@ pour les plus indécis d'entre vous :
 
 ## Je l'ai fait 💪
 
+* La version d'[@Azecko](https://github.com/Azecko) a été faite en `NodeJS` et
+  est disponible [ici](https://github.com/Azecko/kata-birthday).
 * La version de [@octocat](https://github.com/octocat) a été faite en `langage`
   et est disponible [ici](https://#).
 
